@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "vecteezy_a-man-in-pajamas-is-having-a-sweet-dream-in-the-bedroom_5611444.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

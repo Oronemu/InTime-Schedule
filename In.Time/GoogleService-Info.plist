@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432220514605-abc790pf9h5kgvmi415b5ugq5psi5na1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432220514605-abc790pf9h5kgvmi415b5ugq5psi5na1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeW6HcJL4bnCBoCTaIaxLPH_YwREObaoU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432220514605</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>IvanRovkov.In-Time</string>
+	<key>PROJECT_ID</key>
+	<string>intime-schedule-d1ef6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>intime-schedule-d1ef6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432220514605:ios:064ff473ded4c93fa08ba4</string>
+</dict>
+</plist>
