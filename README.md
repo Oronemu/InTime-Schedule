@@ -24,8 +24,7 @@
 ## О проекте
 
 <div align="center">
-    <img src="https://sun9-27.userapi.com/impg/rSugnTXknAPR1t_bG-TnS_wmUy3OLxfu2Qj9zA/bFUuvPUniQQ.jpg?size=743x680&quality=96&sign=289bf580fe7e9ca19c24041035bc62b8&type=album
-" alt="Logo" width="550" height="500">
+    <img src="https://sun9-27.userapi.com/impg/rSugnTXknAPR1t_bG-TnS_wmUy3OLxfu2Qj9zA/bFUuvPUniQQ.jpg?size=743x680&quality=96&sign=289bf580fe7e9ca19c24041035bc62b8&type=album" alt="Logo" width="550" height="500">
 </div>
 
 Это приложение мобильного расписания для группы ФИТ-204 Кемеровского Государственного Университета.Оно предоставляет информацию о предметах на текущую неделю и предстояших экзаменах, а также позволяет кастомизировать приложение на свой вкус, меняя различные параметры в настройках. Приложение является пробой пера и первым опытом написание IOS приложений на SwiftUI, вследствие чего местами содержит неоднородный код и не самую лучшую архитектуру, но оно рабоатет и выглядит красиво 🤨
@@ -41,7 +40,7 @@
 * ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 * ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-<p align="right">(<a href="#о-проекте">back to top</a>)</p>
+<p align="right">(<a href="#о-проекте">Наверх</a>)</p>
 
 <div align="center">
     <img src="https://sun9-49.userapi.com/impg/X_uzRnidCxJ5kxDIGMs6DsPfBln2_RDTB12Ssw/Jd3_kIOSXPs.jpg?size=998x2160&quality=95&sign=45c53556569160b0bbe9624888419fdd&type=album" alt="Logo" width="230" height="500">
@@ -78,4 +77,4 @@ Your Name - [VK](https://vk.com/oronemu) - Oronemu@mail.ru
 
 Project Link: [https://github.com/Oronemu/InTime-Schedule](https://github.com/Oronemu/InTime-Schedule)
 
-<p align="right">(<a href="#о-проекте">back to top</a>)</p>
+<p align="right">(<a href="#о-проекте">Наверх</a>)</p>
